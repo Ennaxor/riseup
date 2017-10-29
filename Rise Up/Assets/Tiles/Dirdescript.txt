@@ -1,0 +1,1 @@
+#Placeholder file needed for compressing the assets in zip
